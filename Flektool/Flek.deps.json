@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Flek/1.0.0": {
+        "dependencies": {
+          "ComponentFactory.Krypton.Toolkit": "1.0.0",
+          "Krypton.Toolkit": "105.26.7.201",
+          "ReaLTaiizor": "3.8.2.1"
+        },
+        "runtime": {
+          "Flek.dll": {}
+        }
+      },
+      "ComponentFactory.Krypton.Toolkit/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/ComponentFactory.Krypton.Toolkit.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Krypton.Toolkit/105.26.7.201": {
+        "runtime": {
+          "lib/net10.0-windows7.0/Krypton.Toolkit.dll": {
+            "assemblyVersion": "105.26.7.201",
+            "fileVersion": "105.26.7.201"
+          }
+        }
+      },
+      "ReaLTaiizor/3.8.2.1": {
+        "runtime": {
+          "lib/net10.0-windows7.0/ReaLTaiizor.dll": {
+            "assemblyVersion": "3.8.2.1",
+            "fileVersion": "3.8.2.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Flek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComponentFactory.Krypton.Toolkit/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4pvsHfzzkPoZGjk36dYqADnU5E2lZc+2CyC7yKOPnI2qXjSM+i8WiH+0wQf0vyjx2231R+PsTpmVuicaPt7/aw==",
+      "path": "componentfactory.krypton.toolkit/1.0.0",
+      "hashPath": "componentfactory.krypton.toolkit.1.0.0.nupkg.sha512"
+    },
+    "Krypton.Toolkit/105.26.7.201": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Wxr2n7YYR21vtQIsy4csAQhn0v6AcHdD7SX2qOl/Bb/QGpkyUz1a8IxqOWp4VCyaBPUNPNeTNOWfECI7/UrkJw==",
+      "path": "krypton.toolkit/105.26.7.201",
+      "hashPath": "krypton.toolkit.105.26.7.201.nupkg.sha512"
+    },
+    "ReaLTaiizor/3.8.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RNrX7/YruPJfVIfWD0x9EIPmvPH5Mawf7lZbbFuQHhqp3Lo8oO+FNXvVT9JgDu+U/dgeM09ZOdo6SZQrQ16pdQ==",
+      "path": "realtaiizor/3.8.2.1",
+      "hashPath": "realtaiizor.3.8.2.1.nupkg.sha512"
+    }
+  }
+}
